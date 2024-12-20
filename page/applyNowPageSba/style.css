@@ -1,0 +1,37 @@
+body{
+    background-color:bisque;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+   
+
+}
+h1{
+    text-align: center;
+   
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: center;
+    padding-top: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  border: 3px solid green;
+
+}
+input{
+margin-bottom: 10;
+flex: 1;
+padding: 5;
+font-size: 15;
+  
+
+
+}
+.conatiner{
+    margin-right: 10px;
+}
